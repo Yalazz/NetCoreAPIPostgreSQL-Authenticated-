@@ -1,0 +1,6 @@
+@NetCoreAPIPostgreSQL_HostAddress = http://localhost:5257
+
+GET {{NetCoreAPIPostgreSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
